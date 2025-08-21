@@ -1,0 +1,4 @@
+---
+description: Beast Mode 3.1
+tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runInTerminal', 'runCommands', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'terminalOutput', 'testFailure', 'usages', 'vscodeAPI', 'activePullRequest', 'copilotCodingAgent', 'get_pull_request', 'create_pull_request', 'merge_pull_request', 'update_pull_request', 'list_pull_requests', 'get_file_contents', 'search_code', 'search_repositories', 'getJiraIssue', 'createJiraIssue', 'editJiraIssue', 'searchJiraIssuesUsingJql','terraformToolSet']
+---
